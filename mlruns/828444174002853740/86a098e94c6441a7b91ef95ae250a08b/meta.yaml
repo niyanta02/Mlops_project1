@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/828444174002853740/86a098e94c6441a7b91ef95ae250a08b/artifacts
+end_time: 1747248258873
+entry_point_name: ''
+experiment_id: '828444174002853740'
+lifecycle_stage: active
+run_id: 86a098e94c6441a7b91ef95ae250a08b
+run_name: bustling-kit-154
+run_uuid: 86a098e94c6441a7b91ef95ae250a08b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248258594
+status: 4
+tags: []
+user_id: niyan
