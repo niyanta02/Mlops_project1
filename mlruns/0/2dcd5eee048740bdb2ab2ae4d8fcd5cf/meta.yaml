@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2dcd5eee048740bdb2ab2ae4d8fcd5cf/artifacts
+end_time: 1747425043000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dcd5eee048740bdb2ab2ae4d8fcd5cf
+run_name: adventurous-swan-632
+run_uuid: 2dcd5eee048740bdb2ab2ae4d8fcd5cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747424927994
+status: 4
+tags: []
+user_id: niyan

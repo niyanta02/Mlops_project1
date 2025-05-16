@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5578251577624715b37f18c63bdeb5cb/artifacts
+end_time: 1747428097472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5578251577624715b37f18c63bdeb5cb
+run_name: caring-toad-587
+run_uuid: 5578251577624715b37f18c63bdeb5cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747427982465
+status: 3
+tags: []
+user_id: niyan

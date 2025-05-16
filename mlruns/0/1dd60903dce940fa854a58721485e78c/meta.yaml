@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1dd60903dce940fa854a58721485e78c/artifacts
+end_time: 1747421218371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dd60903dce940fa854a58721485e78c
+run_name: flawless-loon-550
+run_uuid: 1dd60903dce940fa854a58721485e78c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747421108128
+status: 4
+tags: []
+user_id: niyan

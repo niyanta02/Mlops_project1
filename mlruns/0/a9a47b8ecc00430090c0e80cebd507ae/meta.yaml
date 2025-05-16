@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a9a47b8ecc00430090c0e80cebd507ae/artifacts
+end_time: 1747424872000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9a47b8ecc00430090c0e80cebd507ae
+run_name: enthused-grouse-752
+run_uuid: a9a47b8ecc00430090c0e80cebd507ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747424765224
+status: 4
+tags: []
+user_id: niyan
