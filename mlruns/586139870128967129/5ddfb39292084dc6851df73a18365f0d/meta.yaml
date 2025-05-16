@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586139870128967129/5ddfb39292084dc6851df73a18365f0d/artifacts
+end_time: 1747408691334
+entry_point_name: ''
+experiment_id: '586139870128967129'
+lifecycle_stage: active
+run_id: 5ddfb39292084dc6851df73a18365f0d
+run_name: stately-squid-706
+run_uuid: 5ddfb39292084dc6851df73a18365f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747408674227
+status: 3
+tags: []
+user_id: niyan

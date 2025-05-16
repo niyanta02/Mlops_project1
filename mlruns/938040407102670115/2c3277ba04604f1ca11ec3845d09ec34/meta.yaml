@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/938040407102670115/2c3277ba04604f1ca11ec3845d09ec34/artifacts
+end_time: 1747335930799
+entry_point_name: ''
+experiment_id: '938040407102670115'
+lifecycle_stage: active
+run_id: 2c3277ba04604f1ca11ec3845d09ec34
+run_name: languid-shark-738
+run_uuid: 2c3277ba04604f1ca11ec3845d09ec34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747335930568
+status: 3
+tags: []
+user_id: niyan

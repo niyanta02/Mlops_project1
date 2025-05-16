@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586139870128967129/8a03878d5f574e4e92527bdf10bf5340/artifacts
+end_time: 1747407587450
+entry_point_name: ''
+experiment_id: '586139870128967129'
+lifecycle_stage: active
+run_id: 8a03878d5f574e4e92527bdf10bf5340
+run_name: resilient-slug-610
+run_uuid: 8a03878d5f574e4e92527bdf10bf5340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747407579378
+status: 3
+tags: []
+user_id: niyan
